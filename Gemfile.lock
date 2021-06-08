@@ -16,7 +16,7 @@ GEM
       racc (~> 1.4)
     nori (2.6.0)
     racc (1.5.2)
-    rack (2.0.8)
+    rack (2.2.3)
     savon (2.12.0)
       akami (~> 1.2)
       builder (>= 2.1.2)
